@@ -8,7 +8,6 @@ Email Me 👉 ✉️ **devmehrotra@gmail.com** For Collaboration/Project or Anyt
 - 👯 **I’m looking to collaborate on:** AI/ML research projects and scalable backend systems using Python or Node.js.
 - 🤔 **I’m looking for help with:** Improving performance and scalability in RAG systems, and integrating multi-modal capabilities.
 - 💬 **Ask me about:** LLM integration, real-time backend architectures, and cloud deployment.
-- 📫 **How to reach me:** devmehrotra@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I love building things that automate boring tasks — and I firmly believe that a good AI workflow is just modern-day magic!
 
