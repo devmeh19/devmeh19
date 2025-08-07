@@ -61,9 +61,10 @@ Email Me 👉 ✉️ **devmehrotra@gmail.com** For Collaboration/Project or Anyt
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmeh19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmeh19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devmeh19&theme=dark&hide_border=false)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/alamimran613](https://www.linkedin.com/in/dev-mehrotra-3026601b/))
