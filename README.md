@@ -61,7 +61,6 @@ Email Me 👉 ✉️ **devmehrotra@gmail.com** For Collaboration/Project or Anyt
 
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmeh19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmeh19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 
 ## 🌐 Connect with Me:
