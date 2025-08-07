@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Dev Mehrotra
+#  Hi 👋, I'm Dev Mehrotra
 **A passionate Software Engineer || ML Engineer from India**
 
 Email Me 👉 ✉️ **devmehrotra@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -65,7 +65,7 @@ Email Me 👉 ✉️ **devmehrotra@gmail.com** For Collaboration/Project or Anyt
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmeh19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 
-## 🌐 Socials:
+## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/alamimran613](https://www.linkedin.com/in/dev-mehrotra-3026601b/))
 
 ### ✍️ Random Dev Quote
